@@ -1,0 +1,2001 @@
+[{
+        "title": "The Shawshank Redemption ",
+        "rating": "9.3",
+        "release_year": "1994",
+        "duration": "2h 22min",
+        "release_date": "14 October 1994 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0111161/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Whiplash ",
+        "rating": "8.5",
+        "release_year": "2014",
+        "duration": "1h 46min",
+        "release_date": "20 February 2015 (India)",
+        "movie_url": "https://www.imdb.com/title/tt2582802/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Gladiator ",
+        "rating": "8.5",
+        "release_year": "2000",
+        "duration": "2h 35min",
+        "release_date": "5 May 2000 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0172495/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Joker ",
+        "rating": "8.5",
+        "release_year": "2019",
+        "duration": "2h 2min",
+        "release_date": "4 October 2019 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt7286456/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Departed ",
+        "rating": "8.5",
+        "release_year": "2006",
+        "duration": "2h 31min",
+        "release_date": "6 October 2006 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0407887/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Prestige ",
+        "rating": "8.5",
+        "release_year": "2006",
+        "duration": "2h 10min",
+        "release_date": "20 October 2006 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0482571/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Avengers: Infinity War ",
+        "rating": "8.5",
+        "release_year": "2018",
+        "duration": "2h 29min",
+        "release_date": "27 April 2018 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt4154756/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Pianist ",
+        "rating": "8.5",
+        "release_year": "2002",
+        "duration": "2h 30min",
+        "release_date": "28 March 2003 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0253474/?ref_=adv_li_tt"
+    },
+    {
+        "title": "It's a Wonderful Life ",
+        "rating": "8.6",
+        "release_year": "1946",
+        "duration": "2h 10min",
+        "release_date": "7 January 1947 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0038650/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Seven Samurai ",
+        "rating": "8.6",
+        "release_year": "1954",
+        "duration": "3h 27min",
+        "release_date": "19 November 1956 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0047478/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Intouchables ",
+        "rating": "8.5",
+        "release_year": "2011",
+        "duration": "1h 52min",
+        "release_date": "13 July 2012 (India)",
+        "movie_url": "https://www.imdb.com/title/tt1675434/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Silence of the Lambs ",
+        "rating": "8.6",
+        "release_year": "1991",
+        "duration": "1h 58min",
+        "release_date": "14 February 1991 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0102926/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Se7en ",
+        "rating": "8.6",
+        "release_year": "1995",
+        "duration": "2h 7min",
+        "release_date": "22 September 1995 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0114369/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Star Wars: Episode IV - A New Hope ",
+        "rating": "8.6",
+        "release_year": "1977",
+        "duration": "2h 1min",
+        "release_date": "25 May 1977 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0076759/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Life Is Beautiful ",
+        "rating": "8.6",
+        "release_year": "1997",
+        "duration": "1h 56min",
+        "release_date": "12 February 1999 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0118799/?ref_=adv_li_tt"
+    },
+    {
+        "title": "High and Low ",
+        "rating": "8.5",
+        "release_year": "1963",
+        "duration": "2h 23min",
+        "release_date": "26 November 1963 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0057565/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Back to the Future ",
+        "rating": "8.5",
+        "release_year": "1985",
+        "duration": "1h 56min",
+        "release_date": "3 July 1985 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0088763/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Green Mile ",
+        "rating": "8.6",
+        "release_year": "1999",
+        "duration": "3h 9min",
+        "release_date": "10 December 1999 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0120689/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Grave of the Fireflies ",
+        "rating": "8.5",
+        "release_year": "1988",
+        "duration": "1h 29min",
+        "release_date": "26 July 1989 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0095327/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Léon: The Professional ",
+        "rating": "8.5",
+        "release_year": "1994",
+        "duration": "1h 50min",
+        "release_date": "18 November 1994 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0110413/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Cinema Paradiso ",
+        "rating": "8.5",
+        "release_year": "1988",
+        "duration": "2h 35min",
+        "release_date": "23 February 1990 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0095765/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Lion King ",
+        "rating": "8.5",
+        "release_year": "1994",
+        "duration": "1h 28min",
+        "release_date": "24 June 1994 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0110357/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Once Upon a Time in the West ",
+        "rating": "8.5",
+        "release_year": "1968",
+        "duration": "2h 45min",
+        "release_date": "4 July 1969 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0064116/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Terminator 2: Judgment Day ",
+        "rating": "8.5",
+        "release_year": "1991",
+        "duration": "2h 17min",
+        "release_date": "3 July 1991 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0103064/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Usual Suspects ",
+        "rating": "8.5",
+        "release_year": "1995",
+        "duration": "1h 46min",
+        "release_date": "16 August 1995 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0114814/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Saving Private Ryan ",
+        "rating": "8.6",
+        "release_year": "1998",
+        "duration": "2h 49min",
+        "release_date": "24 July 1998 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0120815/?ref_=adv_li_tt"
+    },
+    {
+        "title": "American History X ",
+        "rating": "8.5",
+        "release_year": "1998",
+        "duration": "1h 59min",
+        "release_date": "20 November 1998 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0120586/?ref_=adv_li_tt"
+    },
+    {
+        "title": "City of God ",
+        "rating": "8.6",
+        "release_year": "2002",
+        "duration": "2h 10min",
+        "release_date": "13 February 2004 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0317248/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Spirited Away ",
+        "rating": "8.6",
+        "release_year": "2001",
+        "duration": "2h 5min",
+        "release_date": "28 March 2003 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0245429/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Braveheart ",
+        "rating": "8.3",
+        "release_year": "1995",
+        "duration": "2h 58min",
+        "release_date": "24 May 1995 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0112573/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Reservoir Dogs ",
+        "rating": "8.3",
+        "release_year": "1992",
+        "duration": "1h 39min",
+        "release_date": "2 September 1992 (France)",
+        "movie_url": "https://www.imdb.com/title/tt0105236/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Full Metal Jacket ",
+        "rating": "8.3",
+        "release_year": "1987",
+        "duration": "1h 56min",
+        "release_date": "10 July 1987 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0093058/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Toy Story ",
+        "rating": "8.3",
+        "release_year": "1995",
+        "duration": "1h 21min",
+        "release_date": "22 November 1995 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0114709/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Children of Heaven ",
+        "rating": "8.3",
+        "release_year": "1997",
+        "duration": "1h 29min",
+        "release_date": "22 January 1999 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0118849/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Good Will Hunting ",
+        "rating": "8.3",
+        "release_year": "1997",
+        "duration": "2h 6min",
+        "release_date": "9 January 1998 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0119217/?ref_=adv_li_tt"
+    },
+    {
+        "title": "American Beauty ",
+        "rating": "8.3",
+        "release_year": "1999",
+        "duration": "2h 2min",
+        "release_date": "1 October 1999 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0169547/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Bandit ",
+        "rating": "8.3",
+        "release_year": "1996",
+        "duration": "2h 8min",
+        "release_date": "29 November 1996 (Turkey)",
+        "movie_url": "https://www.imdb.com/title/tt0116231/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Snatch ",
+        "rating": "8.3",
+        "release_year": "2000",
+        "duration": "1h 42min",
+        "release_date": "19 January 2001 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0208092/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Requiem for a Dream ",
+        "rating": "8.3",
+        "release_year": "2000",
+        "duration": "1h 42min",
+        "release_date": "15 December 2000 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0180093/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Eternal Sunshine of the Spotless Mind ",
+        "rating": "8.3",
+        "release_year": "2004",
+        "duration": "1h 48min",
+        "release_date": "19 March 2004 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0338013/?ref_=adv_li_tt"
+    },
+    {
+        "title": "My Father and My Son ",
+        "rating": "8.3",
+        "release_year": "2005",
+        "duration": "1h 52min",
+        "release_date": "18 November 2005 (Turkey)",
+        "movie_url": "https://www.imdb.com/title/tt0476735/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Inglourious Basterds ",
+        "rating": "8.3",
+        "release_year": "2009",
+        "duration": "2h 33min",
+        "release_date": "21 August 2009 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0361748/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Toy Story 3 ",
+        "rating": "8.3",
+        "release_year": "2010",
+        "duration": "1h 43min",
+        "release_date": "18 June 2010 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0435761/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Incendies ",
+        "rating": "8.3",
+        "release_year": "2010",
+        "duration": "2h 11min",
+        "release_date": "12 January 2011 (France)",
+        "movie_url": "https://www.imdb.com/title/tt1255953/?ref_=adv_li_tt"
+    },
+    {
+        "title": "My Neighbor Totoro ",
+        "rating": "8.2",
+        "release_year": "1988",
+        "duration": "1h 26min",
+        "release_date": "13 July 1990 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0096283/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Unforgiven ",
+        "rating": "8.2",
+        "release_year": "1992",
+        "duration": "2h 10min",
+        "release_date": "7 August 1992 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0105695/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Amélie ",
+        "rating": "8.3",
+        "release_year": "2001",
+        "duration": "2h 2min",
+        "release_date": "8 February 2002 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0211915/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Die Hard ",
+        "rating": "8.2",
+        "release_year": "1988",
+        "duration": "2h 12min",
+        "release_date": "20 July 1988 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0095016/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Heat ",
+        "rating": "8.2",
+        "release_year": "1995",
+        "duration": "2h 50min",
+        "release_date": "15 December 1995 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0113277/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Casino ",
+        "rating": "8.2",
+        "release_year": "1995",
+        "duration": "2h 58min",
+        "release_date": "22 November 1995 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0112641/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Indiana Jones and the Last Crusade ",
+        "rating": "8.2",
+        "release_year": "1989",
+        "duration": "2h 7min",
+        "release_date": "24 May 1989 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0097576/?ref_=adv_li_tt"
+    },
+    {
+        "title": "L.A. Confidential ",
+        "rating": "8.2",
+        "release_year": "1997",
+        "duration": "2h 18min",
+        "release_date": "19 September 1997 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0119488/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Lock, Stock and Two Smoking Barrels ",
+        "rating": "8.2",
+        "release_year": "1998",
+        "duration": "1h 47min",
+        "release_date": "28 August 1998 (UK)",
+        "movie_url": "https://www.imdb.com/title/tt0120735/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Downfall ",
+        "rating": "8.2",
+        "release_year": "2004",
+        "duration": "2h 36min",
+        "release_date": "8 April 2005 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0363163/?ref_=adv_li_tt"
+    },
+    {
+        "title": "A Beautiful Mind ",
+        "rating": "8.2",
+        "release_year": "2001",
+        "duration": "2h 15min",
+        "release_date": "4 January 2002 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0268978/?ref_=adv_li_tt"
+    },
+    {
+        "title": "V for Vendetta ",
+        "rating": "8.2",
+        "release_year": "2005",
+        "duration": "2h 12min",
+        "release_date": "17 March 2006 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0434409/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Batman Begins ",
+        "rating": "8.2",
+        "release_year": "2005",
+        "duration": "2h 20min",
+        "release_date": "15 June 2005 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0372784/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Rang De Basanti ",
+        "rating": "8.2",
+        "release_year": "2006",
+        "duration": "2h 47min",
+        "release_date": "26 January 2006 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0405508/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Kill Bill: Vol. 1 ",
+        "rating": "8.1",
+        "release_year": "2003",
+        "duration": "1h 51min",
+        "release_date": "10 October 2003 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0266697/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Hotel Rwanda ",
+        "rating": "8.1",
+        "release_year": "2004",
+        "duration": "2h 1min",
+        "release_date": "4 February 2005 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0395169/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Memories of Murder ",
+        "rating": "8.1",
+        "release_year": "2003",
+        "duration": "2h 12min",
+        "release_date": "2 May 2003 (South Korea)",
+        "movie_url": "https://www.imdb.com/title/tt0353969/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Howl's Moving Castle ",
+        "rating": "8.2",
+        "release_year": "2004",
+        "duration": "1h 59min",
+        "release_date": "17 June 2005 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0347149/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Million Dollar Baby ",
+        "rating": "8.1",
+        "release_year": "2004",
+        "duration": "2h 12min",
+        "release_date": "28 January 2005 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0405159/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Into the Wild ",
+        "rating": "8.1",
+        "release_year": "2007",
+        "duration": "2h 28min",
+        "release_date": "19 October 2007 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0758758/?ref_=adv_li_tt"
+    },
+    {
+        "title": "No Country for Old Men ",
+        "rating": "8.1",
+        "release_year": "2007",
+        "duration": "2h 2min",
+        "release_date": "21 November 2007 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0477348/?ref_=adv_li_tt"
+    },
+    {
+        "title": "How to Train Your Dragon ",
+        "rating": "8.1",
+        "release_year": "2010",
+        "duration": "1h 38min",
+        "release_date": "26 March 2010 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0892769/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Mary and Max ",
+        "rating": "8.1",
+        "release_year": "2009",
+        "duration": "1h 32min",
+        "release_date": "9 April 2009 (Australia)",
+        "movie_url": "https://www.imdb.com/title/tt0978762/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Hachi: A Dog's Tale ",
+        "rating": "8.1",
+        "release_year": "2009",
+        "duration": "1h 33min",
+        "release_date": "4 October 2017 (India)",
+        "movie_url": "https://www.imdb.com/title/tt1028532/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Gran Torino ",
+        "rating": "8.1",
+        "release_year": "2008",
+        "duration": "1h 56min",
+        "release_date": "9 January 2009 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt1205489/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Shutter Island ",
+        "rating": "8.1",
+        "release_year": "2010",
+        "duration": "2h 18min",
+        "release_date": "19 February 2010 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt1130884/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Mad Max: Fury Road ",
+        "rating": "8.1",
+        "release_year": "2015",
+        "duration": "2h",
+        "release_date": "15 May 2015 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt1392190/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Prisoners ",
+        "rating": "8.1",
+        "release_year": "2013",
+        "duration": "2h 33min",
+        "release_date": "20 September 2013 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt1392214/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Help ",
+        "rating": "8.1",
+        "release_year": "2011",
+        "duration": "2h 26min",
+        "release_date": "10 August 2011 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt1454029/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Harry Potter and the Deathly Hallows: Part 2 ",
+        "rating": "8.1",
+        "release_year": "2011",
+        "duration": "2h 10min",
+        "release_date": "15 July 2011 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt1201607/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Ford v Ferrari ",
+        "rating": "8.1",
+        "release_year": "2019",
+        "duration": "2h 32min",
+        "release_date": "15 November 2019 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt1950186/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Rush ",
+        "rating": "8.1",
+        "release_year": "2013",
+        "duration": "2h 3min",
+        "release_date": "27 September 2013 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt1979320/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Spotlight ",
+        "rating": "8.1",
+        "release_year": "2015",
+        "duration": "2h 9min",
+        "release_date": "20 November 2015 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt1895587/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Butch Cassidy and the Sundance Kid ",
+        "rating": "8.0",
+        "release_year": "1969",
+        "duration": "1h 50min",
+        "release_date": "24 September 1969 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0064115/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Aladdin ",
+        "rating": "8.0",
+        "release_year": "1992",
+        "duration": "1h 30min",
+        "release_date": "25 November 1992 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0103639/?ref_=adv_li_tt"
+    },
+    {
+        "title": "12 Years a Slave ",
+        "rating": "8.1",
+        "release_year": "2013",
+        "duration": "2h 14min",
+        "release_date": "8 November 2013 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt2024544/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Before Sunset ",
+        "rating": "8.0",
+        "release_year": "2004",
+        "duration": "1h 20min",
+        "release_date": "30 July 2004 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0381681/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Terminator ",
+        "rating": "8.0",
+        "release_year": "1984",
+        "duration": "1h 47min",
+        "release_date": "26 October 1984 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0088247/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The General ",
+        "rating": "8.1",
+        "release_year": "1926",
+        "duration": "1h 7min",
+        "release_date": "2 January 1927 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0017925/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Monsters, Inc. ",
+        "rating": "8.0",
+        "release_year": "2001",
+        "duration": "1h 32min",
+        "release_date": "2 November 2001 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0198781/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Passion of Joan of Arc ",
+        "rating": "8.1",
+        "release_year": "1928",
+        "duration": "1h 54min",
+        "release_date": "25 October 1928 (France)",
+        "movie_url": "https://www.imdb.com/title/tt0019254/?ref_=adv_li_tt"
+    },
+    {
+        "title": "It Happened One Night ",
+        "rating": "8.1",
+        "release_year": "1934",
+        "duration": "1h 45min",
+        "release_date": "22 February 1934 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0025316/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Rebecca ",
+        "rating": "8.1",
+        "release_year": "1940",
+        "duration": "2h 10min",
+        "release_date": "12 April 1940 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0032976/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Gone with the Wind ",
+        "rating": "8.1",
+        "release_year": "1939",
+        "duration": "3h 58min",
+        "release_date": "17 January 1940 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0031381/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Ace in the Hole ",
+        "rating": "8.1",
+        "release_year": "1951",
+        "duration": "1h 51min",
+        "release_date": "4 July 1951 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0043338/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Third Man ",
+        "rating": "8.1",
+        "release_year": "1949",
+        "duration": "1h 33min",
+        "release_date": "12 October 1949 (France)",
+        "movie_url": "https://www.imdb.com/title/tt0041959/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Mr. Smith Goes to Washington ",
+        "rating": "8.1",
+        "release_year": "1939",
+        "duration": "2h 9min",
+        "release_date": "19 October 1939 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0031679/?ref_=adv_li_tt"
+    },
+    {
+        "title": "On the Waterfront ",
+        "rating": "8.1",
+        "release_year": "1954",
+        "duration": "1h 48min",
+        "release_date": "22 June 1954 (Japan)",
+        "movie_url": "https://www.imdb.com/title/tt0047296/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Wages of Fear ",
+        "rating": "8.1",
+        "release_year": "1953",
+        "duration": "2h 11min",
+        "release_date": "16 February 1955 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0046268/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Bridge on the River Kwai ",
+        "rating": "8.1",
+        "release_year": "1957",
+        "duration": "2h 41min",
+        "release_date": "14 December 1957 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0050212/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Ben-Hur ",
+        "rating": "8.1",
+        "release_year": "1959",
+        "duration": "3h 32min",
+        "release_date": "29 January 1960 (Brazil)",
+        "movie_url": "https://www.imdb.com/title/tt0052618/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The 400 Blows ",
+        "rating": "8.1",
+        "release_year": "1959",
+        "duration": "1h 39min",
+        "release_date": "16 November 1959 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0053198/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Persona ",
+        "rating": "8.1",
+        "release_year": "1966",
+        "duration": "1h 23min",
+        "release_date": "16 March 1967 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0060827/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Cool Hand Luke ",
+        "rating": "8.1",
+        "release_year": "1967",
+        "duration": "2h 7min",
+        "release_date": "1 November 1967 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0061512/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Barry Lyndon ",
+        "rating": "8.1",
+        "release_year": "1975",
+        "duration": "3h 5min",
+        "release_date": "18 December 1975 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0072684/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Deer Hunter ",
+        "rating": "8.1",
+        "release_year": "1978",
+        "duration": "3h 3min",
+        "release_date": "23 February 1979 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0077416/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Network ",
+        "rating": "8.1",
+        "release_year": "1976",
+        "duration": "2h 1min",
+        "release_date": "27 November 1976 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0074958/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Rocky ",
+        "rating": "8.1",
+        "release_year": "1976",
+        "duration": "2h",
+        "release_date": "3 December 1976 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0075148/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Blade Runner ",
+        "rating": "8.1",
+        "release_year": "1982",
+        "duration": "1h 57min",
+        "release_date": "25 June 1982 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0083658/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Fanny and Alexander ",
+        "rating": "8.1",
+        "release_year": "1982",
+        "duration": "3h 8min",
+        "release_date": "17 December 1982 (Sweden)",
+        "movie_url": "https://www.imdb.com/title/tt0083922/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Monty Python's Life of Brian ",
+        "rating": "8.1",
+        "release_year": "1979",
+        "duration": "1h 34min",
+        "release_date": "17 August 1979 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0079470/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Elephant Man ",
+        "rating": "8.1",
+        "release_year": "1980",
+        "duration": "2h 4min",
+        "release_date": "10 October 1980 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0080678/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Nausicaä of the Valley of the Wind ",
+        "rating": "8.1",
+        "release_year": "1984",
+        "duration": "1h 57min",
+        "release_date": "25 November 1987 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0087544/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Paris, Texas ",
+        "rating": "8.1",
+        "release_year": "1984",
+        "duration": "2h 25min",
+        "release_date": "23 August 1984 (UK)",
+        "movie_url": "https://www.imdb.com/title/tt0087884/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Thing ",
+        "rating": "8.1",
+        "release_year": "1982",
+        "duration": "1h 49min",
+        "release_date": "25 June 1982 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0084787/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Stand by Me ",
+        "rating": "8.1",
+        "release_year": "1986",
+        "duration": "1h 29min",
+        "release_date": "26 November 1986 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0092005/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Platoon ",
+        "rating": "8.1",
+        "release_year": "1986",
+        "duration": "2h",
+        "release_date": "6 February 1987 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0091763/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Princess Bride ",
+        "rating": "8.1",
+        "release_year": "1987",
+        "duration": "1h 38min",
+        "release_date": "9 October 1987 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0093779/?ref_=adv_li_tt"
+    },
+    {
+        "title": "In the Name of the Father ",
+        "rating": "8.1",
+        "release_year": "1993",
+        "duration": "2h 13min",
+        "release_date": "25 February 1994 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0107207/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Dead Poets Society ",
+        "rating": "8.1",
+        "release_year": "1989",
+        "duration": "2h 8min",
+        "release_date": "9 June 1989 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0097165/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Three Colors: Red ",
+        "rating": "8.1",
+        "release_year": "1994",
+        "duration": "1h 39min",
+        "release_date": "23 November 1994 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0111495/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Fargo ",
+        "rating": "8.1",
+        "release_year": "1996",
+        "duration": "1h 38min",
+        "release_date": "5 April 1996 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0116282/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Big Lebowski ",
+        "rating": "8.1",
+        "release_year": "1998",
+        "duration": "1h 57min",
+        "release_date": "6 March 1998 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0118715/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Jurassic Park ",
+        "rating": "8.1",
+        "release_year": "1993",
+        "duration": "2h 7min",
+        "release_date": "11 June 1993 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0107290/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Before Sunrise ",
+        "rating": "8.1",
+        "release_year": "1995",
+        "duration": "1h 41min",
+        "release_date": "27 January 1995 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0112471/?ref_=adv_li_tt"
+    },
+    {
+        "title": "In the Mood for Love ",
+        "rating": "8.1",
+        "release_year": "2000",
+        "duration": "1h 38min",
+        "release_date": "9 March 2001 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0118694/?ref_=adv_li_tt"
+    },
+    {
+        "title": "La Haine ",
+        "rating": "8.1",
+        "release_year": "1995",
+        "duration": "1h 38min",
+        "release_date": "23 February 1996 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0113247/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Trainspotting ",
+        "rating": "8.1",
+        "release_year": "1996",
+        "duration": "1h 33min",
+        "release_date": "9 August 1996 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0117951/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Lagaan: Once Upon a Time in India ",
+        "rating": "8.1",
+        "release_year": "2001",
+        "duration": "3h 44min",
+        "release_date": "15 June 2001 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0169102/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Truman Show ",
+        "rating": "8.1",
+        "release_year": "1998",
+        "duration": "1h 43min",
+        "release_date": "5 June 1998 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0120382/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Sixth Sense ",
+        "rating": "8.1",
+        "release_year": "1999",
+        "duration": "1h 47min",
+        "release_date": "6 August 1999 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0167404/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Hacksaw Ridge ",
+        "rating": "8.1",
+        "release_year": "2016",
+        "duration": "2h 19min",
+        "release_date": "4 November 2016 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt2119532/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Finding Nemo ",
+        "rating": "8.1",
+        "release_year": "2003",
+        "duration": "1h 40min",
+        "release_date": "30 May 2003 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0266543/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Inside Out ",
+        "rating": "8.1",
+        "release_year": "2015",
+        "duration": "1h 35min",
+        "release_date": "19 June 2015 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt2096673/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Gone Girl ",
+        "rating": "8.1",
+        "release_year": "2014",
+        "duration": "2h 29min",
+        "release_date": "3 October 2014 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt2267998/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Amores Perros ",
+        "rating": "8.1",
+        "release_year": "2000",
+        "duration": "2h 34min",
+        "release_date": "13 April 2001 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0245712/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Catch Me If You Can ",
+        "rating": "8.1",
+        "release_year": "2002",
+        "duration": "2h 21min",
+        "release_date": "25 December 2002 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0264464/?ref_=adv_li_tt"
+    },
+    {
+        "title": "PK ",
+        "rating": "8.1",
+        "release_year": "2014",
+        "duration": "2h 33min",
+        "release_date": "19 December 2014 (India)",
+        "movie_url": "https://www.imdb.com/title/tt2338151/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Grand Budapest Hotel ",
+        "rating": "8.1",
+        "release_year": "2014",
+        "duration": "1h 39min",
+        "release_date": "28 March 2014 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt2278388/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Invisible Guest ",
+        "rating": "8.1",
+        "release_year": "2016",
+        "duration": "1h 46min",
+        "release_date": "6 January 2017 (Spain)",
+        "movie_url": "https://www.imdb.com/title/tt4857264/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Logan ",
+        "rating": "8.1",
+        "release_year": "2017",
+        "duration": "2h 17min",
+        "release_date": "3 March 2017 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt3315342/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Handmaiden ",
+        "rating": "8.1",
+        "release_year": "2016",
+        "duration": "2h 25min",
+        "release_date": "1 June 2016 (South Korea)",
+        "movie_url": "https://www.imdb.com/title/tt4016934/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Room ",
+        "rating": "8.1",
+        "release_year": "2015",
+        "duration": "1h 58min",
+        "release_date": "22 January 2016 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt3170832/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Treasure of the Sierra Madre ",
+        "rating": "8.2",
+        "release_year": "1948",
+        "duration": "2h 6min",
+        "release_date": "24 January 1948 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0040897/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Wild Tales ",
+        "rating": "8.1",
+        "release_year": "2014",
+        "duration": "2h 2min",
+        "release_date": "21 August 2014 (Argentina)",
+        "movie_url": "https://www.imdb.com/title/tt3011894/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Dial M for Murder ",
+        "rating": "8.2",
+        "release_year": "1954",
+        "duration": "1h 45min",
+        "release_date": "29 May 1954 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0046912/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Gold Rush ",
+        "rating": "8.2",
+        "release_year": "1925",
+        "duration": "1h 35min",
+        "release_date": "13 July 1925 (Brazil)",
+        "movie_url": "https://www.imdb.com/title/tt0015864/?ref_=adv_li_tt"
+    },
+    {
+        "title": "To Be or Not to Be ",
+        "rating": "8.2",
+        "release_year": "1942",
+        "duration": "1h 39min",
+        "release_date": "6 March 1942 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0035446/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Tokyo Story ",
+        "rating": "8.2",
+        "release_year": "1953",
+        "duration": "2h 16min",
+        "release_date": "13 March 1972 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0046438/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Sherlock Jr. ",
+        "rating": "8.2",
+        "release_year": "1924",
+        "duration": "45min",
+        "release_date": "11 May 1924 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0015324/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Wild Strawberries ",
+        "rating": "8.2",
+        "release_year": "1957",
+        "duration": "1h 31min",
+        "release_date": "22 June 1959 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0050986/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Rashomon ",
+        "rating": "8.2",
+        "release_year": "1950",
+        "duration": "1h 28min",
+        "release_date": "26 December 1951 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0042876/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Judgment at Nuremberg ",
+        "rating": "8.2",
+        "release_year": "1961",
+        "duration": "2h 59min",
+        "release_date": "18 December 1961 (Sweden)",
+        "movie_url": "https://www.imdb.com/title/tt0055031/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Some Like It Hot ",
+        "rating": "8.2",
+        "release_year": "1959",
+        "duration": "2h 1min",
+        "release_date": "19 March 1959 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0053291/?ref_=adv_li_tt"
+    },
+    {
+        "title": "All About Eve ",
+        "rating": "8.2",
+        "release_year": "1950",
+        "duration": "2h 18min",
+        "release_date": "27 October 1950 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0042192/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Yojimbo ",
+        "rating": "8.2",
+        "release_year": "1961",
+        "duration": "1h 50min",
+        "release_date": "13 September 1961 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0055630/?ref_=adv_li_tt"
+    },
+    {
+        "title": "To Kill a Mockingbird ",
+        "rating": "8.2",
+        "release_year": "1962",
+        "duration": "2h 9min",
+        "release_date": "16 March 1963 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0056592/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Andrei Rublev ",
+        "rating": "8.2",
+        "release_year": "1966",
+        "duration": "3h 25min",
+        "release_date": "October 1973 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0060107/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Great Escape ",
+        "rating": "8.2",
+        "release_year": "1963",
+        "duration": "2h 52min",
+        "release_date": "4 July 1963 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0057115/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Stalker ",
+        "rating": "8.2",
+        "release_year": "1979",
+        "duration": "2h 42min",
+        "release_date": "17 April 1980 (Netherlands)",
+        "movie_url": "https://www.imdb.com/title/tt0079944/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Chinatown ",
+        "rating": "8.2",
+        "release_year": "1974",
+        "duration": "2h 10min",
+        "release_date": "20 June 1974 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0071315/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Pan's Labyrinth ",
+        "rating": "8.2",
+        "release_year": "2006",
+        "duration": "1h 58min",
+        "release_date": "19 January 2007 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0457430/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Raging Bull ",
+        "rating": "8.2",
+        "release_year": "1980",
+        "duration": "2h 9min",
+        "release_date": "19 December 1980 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0081398/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Monty Python and the Holy Grail ",
+        "rating": "8.2",
+        "release_year": "1975",
+        "duration": "1h 31min",
+        "release_date": "6 December 1979 (India)",
+        "movie_url": "https://www.imdb.com/title/tt0071853/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Seventh Seal ",
+        "rating": "8.2",
+        "release_year": "1957",
+        "duration": "1h 36min",
+        "release_date": "13 October 1958 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0050976/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Ran ",
+        "rating": "8.2",
+        "release_year": "1985",
+        "duration": "2h 42min",
+        "release_date": "1 June 1985 (Japan)",
+        "movie_url": "https://www.imdb.com/title/tt0089881/?ref_=adv_li_tt"
+    },
+    {
+        "title": "There Will Be Blood ",
+        "rating": "8.2",
+        "release_year": "2007",
+        "duration": "2h 38min",
+        "release_date": "25 January 2008 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0469494/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Klaus ",
+        "rating": "8.2",
+        "release_year": "2019",
+        "duration": "1h 36min",
+        "release_date": "15 November 2019 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt4729430/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Wolf of Wall Street ",
+        "rating": "8.2",
+        "release_year": "2013",
+        "duration": "3h",
+        "release_date": "25 December 2013 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0993846/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Up ",
+        "rating": "8.2",
+        "release_year": "2009",
+        "duration": "1h 36min",
+        "release_date": "29 May 2009 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt1049413/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Warrior ",
+        "rating": "8.2",
+        "release_year": "2011",
+        "duration": "2h 20min",
+        "release_date": "9 September 2011 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt1291584/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Drishyam ",
+        "rating": "8.2",
+        "release_year": "2015",
+        "duration": "2h 43min",
+        "release_date": "31 July 2015 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt4430212/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Gangs of Wasseypur ",
+        "rating": "8.2",
+        "release_year": "2012",
+        "duration": "5h 21min",
+        "release_date": "22 June 2012 (India)",
+        "movie_url": "https://www.imdb.com/title/tt1954470/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Secret in Their Eyes ",
+        "rating": "8.2",
+        "release_year": "2009",
+        "duration": "2h 9min",
+        "release_date": "21 May 2010 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt1305806/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Three Billboards Outside Ebbing, Missouri ",
+        "rating": "8.2",
+        "release_year": "2017",
+        "duration": "1h 55min",
+        "release_date": "1 December 2017 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt5027774/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Winter Sleep ",
+        "rating": "8.2",
+        "release_year": "2014",
+        "duration": "3h 16min",
+        "release_date": "12 June 2014 (Turkey)",
+        "movie_url": "https://www.imdb.com/title/tt2758880/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Metropolis ",
+        "rating": "8.3",
+        "release_year": "1927",
+        "duration": "2h 33min",
+        "release_date": "13 March 1927 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0017136/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Portrait of a Lady on Fire ",
+        "rating": "8.2",
+        "release_year": "2019",
+        "duration": "2h 2min",
+        "release_date": "14 February 2020 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt8613070/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Citizen Kane ",
+        "rating": "8.3",
+        "release_year": "1941",
+        "duration": "1h 59min",
+        "release_date": "5 September 1941 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0033467/?ref_=adv_li_tt"
+    },
+    {
+        "title": "M ",
+        "rating": "8.3",
+        "release_year": "1931",
+        "duration": "1h 39min",
+        "release_date": "31 August 1931 (Sweden)",
+        "movie_url": "https://www.imdb.com/title/tt0022100/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Kid ",
+        "rating": "8.3",
+        "release_year": "1921",
+        "duration": "1h 8min",
+        "release_date": "6 February 1921 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0012349/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Green Book ",
+        "rating": "8.2",
+        "release_year": "2018",
+        "duration": "2h 10min",
+        "release_date": "16 November 2018 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt6966692/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Double Indemnity ",
+        "rating": "8.3",
+        "release_year": "1944",
+        "duration": "1h 47min",
+        "release_date": "6 July 1944 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0036775/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Vertigo ",
+        "rating": "8.3",
+        "release_year": "1958",
+        "duration": "2h 8min",
+        "release_date": "22 May 1958 (UK)",
+        "movie_url": "https://www.imdb.com/title/tt0052357/?ref_=adv_li_tt"
+    },
+    {
+        "title": "For a Few Dollars More ",
+        "rating": "8.3",
+        "release_year": "1965",
+        "duration": "2h 12min",
+        "release_date": "10 May 1967 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0059578/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Ikiru ",
+        "rating": "8.3",
+        "release_year": "1952",
+        "duration": "2h 23min",
+        "release_date": "25 March 1956 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0044741/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Bicycle Thieves ",
+        "rating": "8.3",
+        "release_year": "1948",
+        "duration": "1h 29min",
+        "release_date": "13 December 1949 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0040522/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Apartment ",
+        "rating": "8.3",
+        "release_year": "1960",
+        "duration": "2h 5min",
+        "release_date": "16 September 1960 (France)",
+        "movie_url": "https://www.imdb.com/title/tt0053604/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Lawrence of Arabia ",
+        "rating": "8.3",
+        "release_year": "1962",
+        "duration": "3h 48min",
+        "release_date": "11 December 1962 (UK)",
+        "movie_url": "https://www.imdb.com/title/tt0056172/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Singin' in the Rain ",
+        "rating": "8.3",
+        "release_year": "1952",
+        "duration": "1h 43min",
+        "release_date": "11 April 1952 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0045152/?ref_=adv_li_tt"
+    },
+    {
+        "title": "North by Northwest ",
+        "rating": "8.3",
+        "release_year": "1959",
+        "duration": "2h 16min",
+        "release_date": "26 September 1959 (Japan)",
+        "movie_url": "https://www.imdb.com/title/tt0053125/?ref_=adv_li_tt"
+    },
+    {
+        "title": "2001: A Space Odyssey ",
+        "rating": "8.3",
+        "release_year": "1968",
+        "duration": "2h 29min",
+        "release_date": "12 May 1968 (UK)",
+        "movie_url": "https://www.imdb.com/title/tt0062622/?ref_=adv_li_tt"
+    },
+    {
+        "title": "A Clockwork Orange ",
+        "rating": "8.3",
+        "release_year": "1971",
+        "duration": "2h 16min",
+        "release_date": "2 February 1972 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0066921/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Das Boot ",
+        "rating": "8.3",
+        "release_year": "1981",
+        "duration": "2h 29min",
+        "release_date": "10 February 1982 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0082096/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Sting ",
+        "rating": "8.3",
+        "release_year": "1973",
+        "duration": "2h 9min",
+        "release_date": "25 December 1973 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0070735/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Star Wars: Episode VI - Return of the Jedi ",
+        "rating": "8.3",
+        "release_year": "1983",
+        "duration": "2h 11min",
+        "release_date": "25 May 1983 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0086190/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Aliens ",
+        "rating": "8.3",
+        "release_year": "1986",
+        "duration": "2h 17min",
+        "release_date": "18 July 1986 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0090605/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Amadeus ",
+        "rating": "8.3",
+        "release_year": "1984",
+        "duration": "2h 40min",
+        "release_date": "19 September 1984 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0086879/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Scarface ",
+        "rating": "8.3",
+        "release_year": "1983",
+        "duration": "2h 50min",
+        "release_date": "9 December 1983 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0086250/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Taxi Driver ",
+        "rating": "8.3",
+        "release_year": "1976",
+        "duration": "1h 54min",
+        "release_date": "9 February 1976 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0075314/?ref_=adv_li_tt"
+    },
+    {
+        "title": "A Separation ",
+        "rating": "8.3",
+        "release_year": "2011",
+        "duration": "2h 3min",
+        "release_date": "29 October 2012 (India)",
+        "movie_url": "https://www.imdb.com/title/tt1832382/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Come and See ",
+        "rating": "8.3",
+        "release_year": "1985",
+        "duration": "2h 22min",
+        "release_date": "17 October 1985 (Hungary)",
+        "movie_url": "https://www.imdb.com/title/tt0091251/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Hunt ",
+        "rating": "8.3",
+        "release_year": "2012",
+        "duration": "1h 55min",
+        "release_date": "10 January 2013 (Denmark)",
+        "movie_url": "https://www.imdb.com/title/tt2106476/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Andhadhun ",
+        "rating": "8.3",
+        "release_year": "2018",
+        "duration": "2h 19min",
+        "release_date": "5 October 2018 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt8108198/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Great Dictator ",
+        "rating": "8.4",
+        "release_year": "1940",
+        "duration": "2h 5min",
+        "release_date": "7 March 1941 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0032553/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Paths of Glory ",
+        "rating": "8.4",
+        "release_year": "1957",
+        "duration": "1h 28min",
+        "release_date": "25 December 1957 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0050825/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Sunset Blvd. ",
+        "rating": "8.4",
+        "release_year": "1950",
+        "duration": "1h 50min",
+        "release_date": "29 September 1950 (Australia)",
+        "movie_url": "https://www.imdb.com/title/tt0043014/?ref_=adv_li_tt"
+    },
+    {
+        "title": "1917 ",
+        "rating": "8.3",
+        "release_year": "2019",
+        "duration": "1h 59min",
+        "release_date": "10 January 2020 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt8579674/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Dr. Strangelove ",
+        "rating": "8.4",
+        "release_year": "1964",
+        "duration": "1h 35min",
+        "release_date": "29 January 1964 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0057012/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Rear Window ",
+        "rating": "8.4",
+        "release_year": "1954",
+        "duration": "1h 52min",
+        "release_date": "September 1954 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0047396/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Witness for the Prosecution ",
+        "rating": "8.4",
+        "release_year": "1957",
+        "duration": "1h 56min",
+        "release_date": "6 February 1958 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0051201/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Shining ",
+        "rating": "8.4",
+        "release_year": "1980",
+        "duration": "2h 26min",
+        "release_date": "13 June 1980 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0081505/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Alien ",
+        "rating": "8.4",
+        "release_year": "1979",
+        "duration": "1h 57min",
+        "release_date": "22 June 1979 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0078748/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Apocalypse Now ",
+        "rating": "8.4",
+        "release_year": "1979",
+        "duration": "2h 27min",
+        "release_date": "15 August 1979 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0078788/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Raiders of the Lost Ark ",
+        "rating": "8.4",
+        "release_year": "1981",
+        "duration": "1h 55min",
+        "release_date": "12 June 1981 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0082971/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Once Upon a Time in America ",
+        "rating": "8.4",
+        "release_year": "1984",
+        "duration": "3h 49min",
+        "release_date": "1 June 1984 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0087843/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Oldboy ",
+        "rating": "8.4",
+        "release_year": "2003",
+        "duration": "1h 41min",
+        "release_date": "21 November 2003 (South Korea)",
+        "movie_url": "https://www.imdb.com/title/tt0364569/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Lives of Others ",
+        "rating": "8.4",
+        "release_year": "2006",
+        "duration": "2h 17min",
+        "release_date": "30 March 2007 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0405094/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Princess Mononoke ",
+        "rating": "8.4",
+        "release_year": "1997",
+        "duration": "2h 14min",
+        "release_date": "19 December 1997 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0119698/?ref_=adv_li_tt"
+    },
+    {
+        "title": "WALL·E ",
+        "rating": "8.4",
+        "release_year": "2008",
+        "duration": "1h 38min",
+        "release_date": "27 June 2008 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0910970/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Memento ",
+        "rating": "8.4",
+        "release_year": "2000",
+        "duration": "1h 53min",
+        "release_date": "25 May 2001 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0209144/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Django Unchained ",
+        "rating": "8.4",
+        "release_year": "2012",
+        "duration": "2h 45min",
+        "release_date": "25 December 2012 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt1853728/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Taare Zameen Par ",
+        "rating": "8.4",
+        "release_year": "2007",
+        "duration": "2h 45min",
+        "release_date": "21 December 2007 (India)",
+        "movie_url": "https://www.imdb.com/title/tt0986264/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Coco ",
+        "rating": "8.4",
+        "release_year": "2017",
+        "duration": "1h 45min",
+        "release_date": "22 November 2017 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt2380307/?ref_=adv_li_tt"
+    },
+    {
+        "title": "3 Idiots ",
+        "rating": "8.4",
+        "release_year": "2009",
+        "duration": "2h 50min",
+        "release_date": "25 December 2009 (India)",
+        "movie_url": "https://www.imdb.com/title/tt1187043/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Spider-Man: Into the Spider-Verse ",
+        "rating": "8.4",
+        "release_year": "2018",
+        "duration": "1h 57min",
+        "release_date": "14 December 2018 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt4633694/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Dark Knight Rises ",
+        "rating": "8.4",
+        "release_year": "2012",
+        "duration": "2h 44min",
+        "release_date": "20 July 2012 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt1345836/?ref_=adv_li_tt"
+    },
+    {
+        "title": "City Lights ",
+        "rating": "8.5",
+        "release_year": "1931",
+        "duration": "1h 27min",
+        "release_date": "7 March 1931 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0021749/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Avengers: Endgame ",
+        "rating": "8.4",
+        "release_year": "2019",
+        "duration": "3h 1min",
+        "release_date": "26 April 2019 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt4154796/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Your Name. ",
+        "rating": "8.4",
+        "release_year": "2016",
+        "duration": "1h 46min",
+        "release_date": "7 April 2017 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt5311514/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Capernaum ",
+        "rating": "8.4",
+        "release_year": "2018",
+        "duration": "2h 6min",
+        "release_date": "21 June 2019 (India)",
+        "movie_url": "https://www.imdb.com/title/tt8267604/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Modern Times ",
+        "rating": "8.5",
+        "release_year": "1936",
+        "duration": "1h 27min",
+        "release_date": "25 February 1936 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0027977/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Dangal ",
+        "rating": "8.4",
+        "release_year": "2016",
+        "duration": "2h 41min",
+        "release_date": "21 December 2016 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt5074352/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Casablanca ",
+        "rating": "8.5",
+        "release_year": "1942",
+        "duration": "1h 42min",
+        "release_date": "23 January 1943 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0034583/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Harakiri ",
+        "rating": "8.7",
+        "release_year": "1962",
+        "duration": "2h 13min",
+        "release_date": "4 August 1964 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0056058/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Parasite ",
+        "rating": "8.6",
+        "release_year": "2019",
+        "duration": "2h 12min",
+        "release_date": "8 November 2019 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt6751668/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Psycho ",
+        "rating": "8.5",
+        "release_year": "1960",
+        "duration": "1h 49min",
+        "release_date": "8 September 1960 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0054215/?ref_=adv_li_tt"
+    },
+    {
+        "title": "One Flew Over the Cuckoo's Nest ",
+        "rating": "8.7",
+        "release_year": "1975",
+        "duration": "2h 13min",
+        "release_date": "19 November 1975 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0073486/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Anand ",
+        "rating": "8.7",
+        "release_year": "1971",
+        "duration": "2h 2min",
+        "release_date": "12 March 1971 (India)",
+        "movie_url": "https://www.imdb.com/title/tt0066763/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Interstellar ",
+        "rating": "8.6",
+        "release_year": "2014",
+        "duration": "2h 49min",
+        "release_date": "7 November 2014 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0816692/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Goodfellas ",
+        "rating": "8.7",
+        "release_year": "1990",
+        "duration": "2h 26min",
+        "release_date": "21 September 1990 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0099685/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Matrix ",
+        "rating": "8.7",
+        "release_year": "1999",
+        "duration": "2h 16min",
+        "release_date": "31 March 1999 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0133093/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Lord of the Rings: The Two Towers ",
+        "rating": "8.7",
+        "release_year": "2002",
+        "duration": "2h 59min",
+        "release_date": "18 December 2002 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0167261/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Star Wars: Episode V - The Empire Strikes Back ",
+        "rating": "8.7",
+        "release_year": "1980",
+        "duration": "2h 4min",
+        "release_date": "20 June 1980 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0080684/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Forrest Gump ",
+        "rating": "8.8",
+        "release_year": "1994",
+        "duration": "2h 22min",
+        "release_date": "6 July 1994 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0109830/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Good, the Bad and the Ugly ",
+        "rating": "8.8",
+        "release_year": "1966",
+        "duration": "2h 58min",
+        "release_date": "29 December 1967 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0060196/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring ",
+        "rating": "8.8",
+        "release_year": "2001",
+        "duration": "2h 58min",
+        "release_date": "19 December 2001 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0120737/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Fight Club ",
+        "rating": "8.8",
+        "release_year": "1999",
+        "duration": "2h 19min",
+        "release_date": "15 October 1999 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0137523/?ref_=adv_li_tt"
+    },
+    {
+        "title": "12 Angry Men ",
+        "rating": "8.9",
+        "release_year": "1957",
+        "duration": "1h 36min",
+        "release_date": "10 April 1957 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0050083/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Inception ",
+        "rating": "8.8",
+        "release_year": "2010",
+        "duration": "2h 28min",
+        "release_date": "16 July 2010 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt1375666/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Schindler's List ",
+        "rating": "8.9",
+        "release_year": "1993",
+        "duration": "3h 15min",
+        "release_date": "4 February 1994 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0108052/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Godfather: Part II ",
+        "rating": "9.0",
+        "release_year": "1974",
+        "duration": "3h 22min",
+        "release_date": "18 December 1974 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0071562/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King ",
+        "rating": "8.9",
+        "release_year": "2003",
+        "duration": "3h 21min",
+        "release_date": "17 December 2003 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0167260/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Godfather ",
+        "rating": "9.2",
+        "release_year": "1972",
+        "duration": "2h 55min",
+        "release_date": "24 March 1972 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0068646/?ref_=adv_li_tt"
+    },
+    {
+        "title": "The Dark Knight ",
+        "rating": "9.0",
+        "release_year": "2008",
+        "duration": "2h 32min",
+        "release_date": "18 July 2008 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0468569/?ref_=adv_li_tt"
+    },
+    {
+        "title": "Pulp Fiction ",
+        "rating": "8.9",
+        "release_year": "1994",
+        "duration": "2h 34min",
+        "release_date": "14 October 1994 (USA)",
+        "movie_url": "https://www.imdb.com/title/tt0110912/?ref_=adv_li_tt"
+    }
+]
