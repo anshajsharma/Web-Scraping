@@ -1,5 +1,5 @@
 {
-    
+    "2018":{ 
         "2018UGCS001": {
             "imageUrl": "https://nilekrator.pythonanywhere.com/static/images/10747.jpg",
             "name": "NAME   : SHAHID AKHTAR",
@@ -29903,8 +29903,9 @@
             "rollno": "ROLL   : 2018UGCS102",
             "branch": "BRANCH : COMPUTER SCIENCE AND ENGINEERING",
             "rank": "RANK   : #20 [ CGPA Based ]"
-        }
+        } }
     ,
+    "2019":{
         "2019UGCS001": {
             "imageUrl": "https://nilekrator.pythonanywhere.com/static/images/11962.jpg",
             "name": "NAME   : ANKIT RAJ",
@@ -42316,7 +42317,8 @@
             "branch": "BRANCH : COMPUTER SCIENCE AND ENGINEERING",
             "rank": "RANK   : #74 [ CGPA Based ]"
         }
-    ,
+    }
+    , "2017":{
         "2017UGCS001": {
             "imageUrl": "https://nilekrator.pythonanywhere.com/static/images/9569.jpg",
             "name": "NAME   : MAYANK KASHYAP",
@@ -92012,5 +92014,5 @@
             "rollno": "ROLL   : 2017UGCS100",
             "branch": "BRANCH : COMPUTER SCIENCE AND ENGINEERING",
             "rank": "RANK   : #55 [ CGPA Based ]"
-        }
+    }}
 }
