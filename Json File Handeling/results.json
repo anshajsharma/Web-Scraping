@@ -1,0 +1,752 @@
+{
+    "2015ugcs089-2": {
+        "imageUrl": "https://nilekrator.pythonanywhere.com/static/images/7405.jpg",
+        "name": "NAME   : AISHWARYA PILLAI",
+        "semester_wise_data": {
+            "Semester VIII": {
+                "SGPA": "8.08",
+                "CGPA": "8.85",
+                "STATUS": "PASS",
+                "SEMESTER": "Semester VIII",
+                "result_date": "[ 27-05-2019]",
+                "result": {
+                    "CS801": {
+                        "Subject Code": "CS801",
+                        "Subject": "PRINCIPLES OF MANAGEMENT",
+                        "Test I": "28.0",
+                        "Test II": "20.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "42.0",
+                        "Total": "90.0",
+                        "Grade": "O"
+                    },
+                    "CS802": {
+                        "Subject Code": "CS802",
+                        "Subject": "DISTRIBUTED OPERATING SYSTEMS",
+                        "Test I": "25.0",
+                        "Test II": "10.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "41.0",
+                        "Total": "76.0",
+                        "Grade": "B"
+                    },
+                    "CS803": {
+                        "Subject Code": "CS803",
+                        "Subject": "PATTERN RECOGNITION",
+                        "Test I": "24.0",
+                        "Test II": "18.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "38.0",
+                        "Total": "80.0",
+                        "Grade": "A"
+                    },
+                    "CS804": {
+                        "Subject Code": "CS804",
+                        "Subject": "VLSI DESIGN",
+                        "Test I": "19.0",
+                        "Test II": "14.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "43.0",
+                        "Total": "76.0",
+                        "Grade": "B"
+                    },
+                    "CS805": {
+                        "Subject Code": "CS805",
+                        "Subject": "VLSI DESIGN LAB.",
+                        "Test I": "0.0",
+                        "Test II": "0.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "70.0",
+                        "Total": "70.0",
+                        "Grade": "B"
+                    },
+                    "CS806": {
+                        "Subject Code": "CS806",
+                        "Subject": "MAJOR PROJECT",
+                        "Test I": "0.0",
+                        "Test II": "0.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "65.0",
+                        "Total": "65.0",
+                        "Grade": "C"
+                    }
+                }
+            },
+            "Semester VII": {
+                "SGPA": "8.04",
+                "CGPA": "8.95",
+                "STATUS": "PASS",
+                "SEMESTER": "Semester VII",
+                "result_date": "[ 23-01-2019]",
+                "result": {
+                    "CS701": {
+                        "Subject Code": "CS701",
+                        "Subject": "ORGANIZATIONAL BEHAVIOUR & INDUSTRIAL PSYCHOLOGY",
+                        "Test I": "26.0",
+                        "Test II": "16.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "44.0",
+                        "Total": "86.0",
+                        "Grade": "A"
+                    },
+                    "CS702": {
+                        "Subject Code": "CS702",
+                        "Subject": "INDUSTRIAL ECONOMICS",
+                        "Test I": "24.0",
+                        "Test II": "16.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "40.0",
+                        "Total": "80.0",
+                        "Grade": "A"
+                    },
+                    "CS703": {
+                        "Subject Code": "CS703",
+                        "Subject": "ARTIFICIAL INTELLIGENCE & APPLICATIONS",
+                        "Test I": "22.0",
+                        "Test II": "19.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "43.0",
+                        "Total": "84.0",
+                        "Grade": "A"
+                    },
+                    "CS704-A": {
+                        "Subject Code": "CS704-A",
+                        "Subject": "WEB TECHNOLOGY",
+                        "Test I": "25.0",
+                        "Test II": "17.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "44.0",
+                        "Total": "86.0",
+                        "Grade": "A"
+                    },
+                    "CS705": {
+                        "Subject Code": "CS705",
+                        "Subject": "DIGITAL IMAGE PROCCESING",
+                        "Test I": "17.0",
+                        "Test II": "8.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "28.0",
+                        "Total": "53.0",
+                        "Grade": "D"
+                    },
+                    "CS706": {
+                        "Subject Code": "CS706",
+                        "Subject": "INDUSTRIAL TRAINING",
+                        "Test I": "0.0",
+                        "Test II": "0.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "73.0",
+                        "Total": "73.0",
+                        "Grade": "B"
+                    },
+                    "CS707": {
+                        "Subject Code": "CS707",
+                        "Subject": "DIGITAL IMAGE PROCCESING LAB",
+                        "Test I": "0.0",
+                        "Test II": "0.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "74.0",
+                        "Total": "74.0",
+                        "Grade": "B"
+                    },
+                    "CS708": {
+                        "Subject Code": "CS708",
+                        "Subject": "MAJOR PROJECT",
+                        "Test I": "0.0",
+                        "Test II": "0.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "63.0",
+                        "Total": "63.0",
+                        "Grade": "C"
+                    }
+                }
+            },
+            "Semester VI": {
+                "SGPA": "9.28",
+                "CGPA": "9.1",
+                "STATUS": "PASS",
+                "SEMESTER": "Semester VI",
+                "result_date": "[ 24-05-2018]",
+                "result": {
+                    "CS601": {
+                        "Subject Code": "CS601",
+                        "Subject": "PARALLEL & DISTRIBUTED COMPUTING",
+                        "Test I": "14.0",
+                        "Test II": "17.0",
+                        "Assignment": "9.0",
+                        "Quiz Avg": "7.6",
+                        "End Sem": "32.0",
+                        "Total": "80.0",
+                        "Grade": "A"
+                    },
+                    "CS602": {
+                        "Subject Code": "CS602",
+                        "Subject": "ADVANCE COMPUTER ARCHITECTURE",
+                        "Test I": "14.0",
+                        "Test II": "15.0",
+                        "Assignment": "8.0",
+                        "Quiz Avg": "7.8",
+                        "End Sem": "37.0",
+                        "Total": "82.0",
+                        "Grade": "A"
+                    },
+                    "CS603": {
+                        "Subject Code": "CS603",
+                        "Subject": "COMPILER DESIGN",
+                        "Test I": "20.0",
+                        "Test II": "19.0",
+                        "Assignment": "9.0",
+                        "Quiz Avg": "8.8",
+                        "End Sem": "38.0",
+                        "Total": "95.0",
+                        "Grade": "O"
+                    },
+                    "CS604A": {
+                        "Subject Code": "CS604A",
+                        "Subject": "PRINCIPLES OF ECONOMICS",
+                        "Test I": "18.0",
+                        "Test II": "19.0",
+                        "Assignment": "9.0",
+                        "Quiz Avg": "8.4",
+                        "End Sem": "38.0",
+                        "Total": "92.0",
+                        "Grade": "O"
+                    },
+                    "CS605A": {
+                        "Subject Code": "CS605A",
+                        "Subject": "OPTIMIZATION TECHNIQUE",
+                        "Test I": "13.0",
+                        "Test II": "20.0",
+                        "Assignment": "8.0",
+                        "Quiz Avg": "6.4",
+                        "End Sem": "40.0",
+                        "Total": "87.0",
+                        "Grade": "A"
+                    },
+                    "CS606": {
+                        "Subject Code": "CS606",
+                        "Subject": "COMPILER DESIGN LAB.",
+                        "Test I": "0.0",
+                        "Test II": "0.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "85.0",
+                        "Total": "85.0",
+                        "Grade": "A"
+                    },
+                    "CS607A": {
+                        "Subject Code": "CS607A",
+                        "Subject": "OPTIMIZATION TECHNIQUE LAB",
+                        "Test I": "0.0",
+                        "Test II": "0.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "82.0",
+                        "Total": "82.0",
+                        "Grade": "A"
+                    },
+                    "CS608": {
+                        "Subject Code": "CS608",
+                        "Subject": "SEMINAR",
+                        "Test I": "0.0",
+                        "Test II": "0.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "83.0",
+                        "Total": "83.0",
+                        "Grade": "A"
+                    }
+                }
+            },
+            "Semester V": {
+                "SGPA": "9.72",
+                "CGPA": "9.06",
+                "STATUS": "PASS",
+                "SEMESTER": "Semester V",
+                "result_date": "[ 21-12-2017]",
+                "result": {
+                    "CS501": {
+                        "Subject Code": "CS501",
+                        "Subject": "OPERATING SYSTEM",
+                        "Test I": "18.0",
+                        "Test II": "18.0",
+                        "Assignment": "9.0",
+                        "Quiz Avg": "9.2",
+                        "End Sem": "37.0",
+                        "Total": "91.0",
+                        "Grade": "O"
+                    },
+                    "CS502": {
+                        "Subject Code": "CS502",
+                        "Subject": "COMPUTER NETWORKS",
+                        "Test I": "15.0",
+                        "Test II": "18.0",
+                        "Assignment": "9.0",
+                        "Quiz Avg": "8.6",
+                        "End Sem": "39.0",
+                        "Total": "90.0",
+                        "Grade": "O"
+                    },
+                    "CS503": {
+                        "Subject Code": "CS503",
+                        "Subject": "OBJECT ORIENTED SYSTEM DESIGN",
+                        "Test I": "17.0",
+                        "Test II": "16.0",
+                        "Assignment": "10.0",
+                        "Quiz Avg": "10.0",
+                        "End Sem": "37.0",
+                        "Total": "90.0",
+                        "Grade": "O"
+                    },
+                    "CS504": {
+                        "Subject Code": "CS504",
+                        "Subject": "COMPUTER GRAPHICS",
+                        "Test I": "19.0",
+                        "Test II": "14.0",
+                        "Assignment": "10.0",
+                        "Quiz Avg": "9.0",
+                        "End Sem": "38.0",
+                        "Total": "90.0",
+                        "Grade": "O"
+                    },
+                    "CS505": {
+                        "Subject Code": "CS505",
+                        "Subject": "PROFESSIONAL ELECTIVE-I: DATAMINIG & DATA WARE HOUSING(DM&DWH)",
+                        "Test I": "12.0",
+                        "Test II": "16.0",
+                        "Assignment": "10.0",
+                        "Quiz Avg": "8.8",
+                        "End Sem": "35.0",
+                        "Total": "82.0",
+                        "Grade": "A"
+                    },
+                    "CS506": {
+                        "Subject Code": "CS506",
+                        "Subject": "OPERATING SYSTEM LAB.",
+                        "Test I": "0.0",
+                        "Test II": "0.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "76.0",
+                        "Total": "76.0",
+                        "Grade": "B"
+                    },
+                    "CS507": {
+                        "Subject Code": "CS507",
+                        "Subject": "OBJECT ORIENTED SYSTEM DESIGN LAB.",
+                        "Test I": "0.0",
+                        "Test II": "0.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "90.0",
+                        "Total": "90.0",
+                        "Grade": "O"
+                    },
+                    "CS508": {
+                        "Subject Code": "CS508",
+                        "Subject": "COMPUTER GRAPHICS LAB.",
+                        "Test I": "0.0",
+                        "Test II": "0.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "95.0",
+                        "Total": "95.0",
+                        "Grade": "O"
+                    }
+                }
+            }
+        },
+        "rollno": "ROLL   : 2015UGCS089",
+        "branch": "BRANCH : COMPUTER SCIENCE AND ENGINEERING",
+        "rank": "RANK   : #7 [ CGPA Based ]"
+    },
+    "2015ugcs089": {
+        "imageUrl": "https://nilekrator.pythonanywhere.com/static/images/7405.jpg",
+        "name": "NAME   : AISHWARYA PILLAI",
+        "semester_wise_data": {
+            "Semester VIII": {
+                "SGPA": "8.08",
+                "CGPA": "8.85",
+                "STATUS": "PASS",
+                "SEMESTER": "Semester VIII",
+                "result_date": "[ 27-05-2019]",
+                "result": {
+                    "CS801": {
+                        "Subject Code": "CS801",
+                        "Subject": "PRINCIPLES OF MANAGEMENT",
+                        "Test I": "28.0",
+                        "Test II": "20.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "42.0",
+                        "Total": "90.0",
+                        "Grade": "O"
+                    },
+                    "CS802": {
+                        "Subject Code": "CS802",
+                        "Subject": "DISTRIBUTED OPERATING SYSTEMS",
+                        "Test I": "25.0",
+                        "Test II": "10.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "41.0",
+                        "Total": "76.0",
+                        "Grade": "B"
+                    },
+                    "CS803": {
+                        "Subject Code": "CS803",
+                        "Subject": "PATTERN RECOGNITION",
+                        "Test I": "24.0",
+                        "Test II": "18.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "38.0",
+                        "Total": "80.0",
+                        "Grade": "A"
+                    },
+                    "CS804": {
+                        "Subject Code": "CS804",
+                        "Subject": "VLSI DESIGN",
+                        "Test I": "19.0",
+                        "Test II": "14.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "43.0",
+                        "Total": "76.0",
+                        "Grade": "B"
+                    },
+                    "CS805": {
+                        "Subject Code": "CS805",
+                        "Subject": "VLSI DESIGN LAB.",
+                        "Test I": "0.0",
+                        "Test II": "0.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "70.0",
+                        "Total": "70.0",
+                        "Grade": "B"
+                    },
+                    "CS806": {
+                        "Subject Code": "CS806",
+                        "Subject": "MAJOR PROJECT",
+                        "Test I": "0.0",
+                        "Test II": "0.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "65.0",
+                        "Total": "65.0",
+                        "Grade": "C"
+                    }
+                }
+            },
+            "Semester VII": {
+                "SGPA": "8.04",
+                "CGPA": "8.95",
+                "STATUS": "PASS",
+                "SEMESTER": "Semester VII",
+                "result_date": "[ 23-01-2019]",
+                "result": {
+                    "CS701": {
+                        "Subject Code": "CS701",
+                        "Subject": "ORGANIZATIONAL BEHAVIOUR & INDUSTRIAL PSYCHOLOGY",
+                        "Test I": "26.0",
+                        "Test II": "16.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "44.0",
+                        "Total": "86.0",
+                        "Grade": "A"
+                    },
+                    "CS702": {
+                        "Subject Code": "CS702",
+                        "Subject": "INDUSTRIAL ECONOMICS",
+                        "Test I": "24.0",
+                        "Test II": "16.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "40.0",
+                        "Total": "80.0",
+                        "Grade": "A"
+                    },
+                    "CS703": {
+                        "Subject Code": "CS703",
+                        "Subject": "ARTIFICIAL INTELLIGENCE & APPLICATIONS",
+                        "Test I": "22.0",
+                        "Test II": "19.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "43.0",
+                        "Total": "84.0",
+                        "Grade": "A"
+                    },
+                    "CS704-A": {
+                        "Subject Code": "CS704-A",
+                        "Subject": "WEB TECHNOLOGY",
+                        "Test I": "25.0",
+                        "Test II": "17.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "44.0",
+                        "Total": "86.0",
+                        "Grade": "A"
+                    },
+                    "CS705": {
+                        "Subject Code": "CS705",
+                        "Subject": "DIGITAL IMAGE PROCCESING",
+                        "Test I": "17.0",
+                        "Test II": "8.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "28.0",
+                        "Total": "53.0",
+                        "Grade": "D"
+                    },
+                    "CS706": {
+                        "Subject Code": "CS706",
+                        "Subject": "INDUSTRIAL TRAINING",
+                        "Test I": "0.0",
+                        "Test II": "0.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "73.0",
+                        "Total": "73.0",
+                        "Grade": "B"
+                    },
+                    "CS707": {
+                        "Subject Code": "CS707",
+                        "Subject": "DIGITAL IMAGE PROCCESING LAB",
+                        "Test I": "0.0",
+                        "Test II": "0.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "74.0",
+                        "Total": "74.0",
+                        "Grade": "B"
+                    },
+                    "CS708": {
+                        "Subject Code": "CS708",
+                        "Subject": "MAJOR PROJECT",
+                        "Test I": "0.0",
+                        "Test II": "0.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "63.0",
+                        "Total": "63.0",
+                        "Grade": "C"
+                    }
+                }
+            },
+            "Semester VI": {
+                "SGPA": "9.28",
+                "CGPA": "9.1",
+                "STATUS": "PASS",
+                "SEMESTER": "Semester VI",
+                "result_date": "[ 24-05-2018]",
+                "result": {
+                    "CS601": {
+                        "Subject Code": "CS601",
+                        "Subject": "PARALLEL & DISTRIBUTED COMPUTING",
+                        "Test I": "14.0",
+                        "Test II": "17.0",
+                        "Assignment": "9.0",
+                        "Quiz Avg": "7.6",
+                        "End Sem": "32.0",
+                        "Total": "80.0",
+                        "Grade": "A"
+                    },
+                    "CS602": {
+                        "Subject Code": "CS602",
+                        "Subject": "ADVANCE COMPUTER ARCHITECTURE",
+                        "Test I": "14.0",
+                        "Test II": "15.0",
+                        "Assignment": "8.0",
+                        "Quiz Avg": "7.8",
+                        "End Sem": "37.0",
+                        "Total": "82.0",
+                        "Grade": "A"
+                    },
+                    "CS603": {
+                        "Subject Code": "CS603",
+                        "Subject": "COMPILER DESIGN",
+                        "Test I": "20.0",
+                        "Test II": "19.0",
+                        "Assignment": "9.0",
+                        "Quiz Avg": "8.8",
+                        "End Sem": "38.0",
+                        "Total": "95.0",
+                        "Grade": "O"
+                    },
+                    "CS604A": {
+                        "Subject Code": "CS604A",
+                        "Subject": "PRINCIPLES OF ECONOMICS",
+                        "Test I": "18.0",
+                        "Test II": "19.0",
+                        "Assignment": "9.0",
+                        "Quiz Avg": "8.4",
+                        "End Sem": "38.0",
+                        "Total": "92.0",
+                        "Grade": "O"
+                    },
+                    "CS605A": {
+                        "Subject Code": "CS605A",
+                        "Subject": "OPTIMIZATION TECHNIQUE",
+                        "Test I": "13.0",
+                        "Test II": "20.0",
+                        "Assignment": "8.0",
+                        "Quiz Avg": "6.4",
+                        "End Sem": "40.0",
+                        "Total": "87.0",
+                        "Grade": "A"
+                    },
+                    "CS606": {
+                        "Subject Code": "CS606",
+                        "Subject": "COMPILER DESIGN LAB.",
+                        "Test I": "0.0",
+                        "Test II": "0.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "85.0",
+                        "Total": "85.0",
+                        "Grade": "A"
+                    },
+                    "CS607A": {
+                        "Subject Code": "CS607A",
+                        "Subject": "OPTIMIZATION TECHNIQUE LAB",
+                        "Test I": "0.0",
+                        "Test II": "0.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "82.0",
+                        "Total": "82.0",
+                        "Grade": "A"
+                    },
+                    "CS608": {
+                        "Subject Code": "CS608",
+                        "Subject": "SEMINAR",
+                        "Test I": "0.0",
+                        "Test II": "0.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "83.0",
+                        "Total": "83.0",
+                        "Grade": "A"
+                    }
+                }
+            },
+            "Semester V": {
+                "SGPA": "9.72",
+                "CGPA": "9.06",
+                "STATUS": "PASS",
+                "SEMESTER": "Semester V",
+                "result_date": "[ 21-12-2017]",
+                "result": {
+                    "CS501": {
+                        "Subject Code": "CS501",
+                        "Subject": "OPERATING SYSTEM",
+                        "Test I": "18.0",
+                        "Test II": "18.0",
+                        "Assignment": "9.0",
+                        "Quiz Avg": "9.2",
+                        "End Sem": "37.0",
+                        "Total": "91.0",
+                        "Grade": "O"
+                    },
+                    "CS502": {
+                        "Subject Code": "CS502",
+                        "Subject": "COMPUTER NETWORKS",
+                        "Test I": "15.0",
+                        "Test II": "18.0",
+                        "Assignment": "9.0",
+                        "Quiz Avg": "8.6",
+                        "End Sem": "39.0",
+                        "Total": "90.0",
+                        "Grade": "O"
+                    },
+                    "CS503": {
+                        "Subject Code": "CS503",
+                        "Subject": "OBJECT ORIENTED SYSTEM DESIGN",
+                        "Test I": "17.0",
+                        "Test II": "16.0",
+                        "Assignment": "10.0",
+                        "Quiz Avg": "10.0",
+                        "End Sem": "37.0",
+                        "Total": "90.0",
+                        "Grade": "O"
+                    },
+                    "CS504": {
+                        "Subject Code": "CS504",
+                        "Subject": "COMPUTER GRAPHICS",
+                        "Test I": "19.0",
+                        "Test II": "14.0",
+                        "Assignment": "10.0",
+                        "Quiz Avg": "9.0",
+                        "End Sem": "38.0",
+                        "Total": "90.0",
+                        "Grade": "O"
+                    },
+                    "CS505": {
+                        "Subject Code": "CS505",
+                        "Subject": "PROFESSIONAL ELECTIVE-I: DATAMINIG & DATA WARE HOUSING(DM&DWH)",
+                        "Test I": "12.0",
+                        "Test II": "16.0",
+                        "Assignment": "10.0",
+                        "Quiz Avg": "8.8",
+                        "End Sem": "35.0",
+                        "Total": "82.0",
+                        "Grade": "A"
+                    },
+                    "CS506": {
+                        "Subject Code": "CS506",
+                        "Subject": "OPERATING SYSTEM LAB.",
+                        "Test I": "0.0",
+                        "Test II": "0.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "76.0",
+                        "Total": "76.0",
+                        "Grade": "B"
+                    },
+                    "CS507": {
+                        "Subject Code": "CS507",
+                        "Subject": "OBJECT ORIENTED SYSTEM DESIGN LAB.",
+                        "Test I": "0.0",
+                        "Test II": "0.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "90.0",
+                        "Total": "90.0",
+                        "Grade": "O"
+                    },
+                    "CS508": {
+                        "Subject Code": "CS508",
+                        "Subject": "COMPUTER GRAPHICS LAB.",
+                        "Test I": "0.0",
+                        "Test II": "0.0",
+                        "Assignment": "0.0",
+                        "Quiz Avg": "0.0",
+                        "End Sem": "95.0",
+                        "Total": "95.0",
+                        "Grade": "O"
+                    }
+                }
+            }
+        },
+        "rollno": "ROLL   : 2015UGCS089",
+        "branch": "BRANCH : COMPUTER SCIENCE AND ENGINEERING",
+        "rank": "RANK   : #7 [ CGPA Based ]"
+    }
+}
